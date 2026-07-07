@@ -1,0 +1,42 @@
+{
+  "retry": {
+    "https://devopsvn.tech/chuong-trinh-mentor": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/chuong-trinh-mentor/bi-ngc-anh-huy": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/chuong-trinh-mentor/nguyn-huy-hong": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/chuong-trinh-mentor/nguyn-vn-mnh": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/devops/giai-phap-cong-nghe-cho-cac-ung-dung-lon": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/devops/redis-mat-du-lieu-khi-restart": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile-for-nodejs": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-go": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-java-springboot-and-quarkus": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-net-core": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-php-laravel": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-python": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-react": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-ruby-on-rails": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/dockerfile/dockerfile-for-rust": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/learning-path": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/learning-path/devops-learning-path": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/learning-path/docker-learning-path": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/learning-path/linux-learning-path": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/new/lit-k-requests-limits-trong-kubernetes-mt-cch-d-dng-vi-kube-capacity-cli": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/new/s-dng-ssh-port-forwarding-kt-ni-ti-ti-nguyn-b-chn": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/new/service-mesh-on-kubernetes-gii-thiu-istio-istio-l-g": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/new/t-ng-ng-b-kubernetes-configmaps-v-secrets-qua-cc-namespaces-khc-vi-reflector": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/tai-sao-ban-hoc-english-khong-hieu-qua": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/cicd-l-g-cng-c-continuous-integration": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/cu-hnh-postgresql-master-slave-replication-trn-kubernetes": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/khi-no-th-ta-khng-nn-s-dng-kubernetes": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/kubernetes-lm-vic-vi-container-nh-th-no": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/nhng-cun-sch-nn-c-tr-thnh-devops-cho-ngi-mi-bt-u": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/t-xy-dng-container-vi-go": "STILL_404:HTTP 404",
+    "https://devopsvn.tech/top-post/trin-khai-elasticsearch-ln-trn-kubernetes-cloud": "STILL_404:HTTP 404"
+  },
+  "not_in_sitemap": [
+    "https://devopsvn.tech/878c6843d92e45a3af8e2153fd6bb103",
+    "https://devopsvn.tech/_next/image",
+    "https://devopsvn.tech/cdn-cgi/l/email-protection"
+  ],
+  "new_reachable": []
+}

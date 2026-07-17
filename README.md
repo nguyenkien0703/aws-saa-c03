@@ -171,6 +171,15 @@
 ✅ **So sánh chi tiết** - các dịch vụ dễ nhầm lẫn
 ✅ **Tiếng Việt tự nhiên** - không phải bản dịch máy
 
+## 🚢 Tài Liệu Mở Rộng — Kubernetes (CKA/CKS + Thực Chiến)
+
+Ngoài AWS SAA-C03, repo có thêm bộ tài liệu Kubernetes phục vụ vận hành production và ôn thi chứng chỉ **CKA/CKS của CNCF/Linux Foundation** (lưu ý: **không phải** chứng chỉ của AWS):
+
+- **[X-kubernetes-thuc-chien-troubleshooting.md](./X-kubernetes-thuc-chien-troubleshooting.md)** — Cẩm nang thực chiến: chẩn đoán & xử lý sự cố (`CrashLoopBackOff`, `ImagePullBackOff`, `OOMKilled`, `Pending`, DNS 5s, Ingress 5xx, node `NotReady`, cert hết hạn, etcd...), gotchas kinh điển (probe, PDB, finalizers), best practices & anti-patterns, GitOps/observability/autoscaling. Kèm bảng tra cứu nhanh **triệu chứng → nguyên nhân → lệnh chốt**.
+- **[Y-cka-cks-cert-prep.md](./Y-cka-cks-cert-prep.md)** — Ôn thi CKA & CKS: logistics kỳ thi, command/tool cookbook theo từng domain (etcd backup, kubeadm upgrade, RBAC, Falco, Trivy, NetworkPolicy, PSA, seccomp/AppArmor, encryption at-rest...), tips killer.sh, lộ trình học 30/60/90 ngày, checklist "phải thuộc lòng".
+
+> Domain **Troubleshooting** chiếm 30% đề CKA — file X chính là phần ôn tập trực tiếp cho domain này.
+
 ## 📞 Hỗ Trợ
 
 Nếu có thắc mắc hoặc cần giải đáp thêm:
